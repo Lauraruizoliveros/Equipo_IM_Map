@@ -1,1 +1,1 @@
-# EquipoIM
+# Equipo_IM
